@@ -1,10 +1,15 @@
-# page_route_builder
+# Animate a page route transition
 
-A new Flutter application.
+A design language, such as Material, defines standard behaviors when transitioning between routes (or screens). Sometimes, though, a custom transition between screens can make an app more unique.
 
-## Getting Started
+To create a custom page route transition
 
-This project is a starting point for a Flutter application.
+    Set up a PageRouteBuilder
+    Create a Tween
+    Add an AnimatedWidget
+    Use a CurveTween
+    Combine the two Tweens
+
 
 A few resources to get you started if this is your first Flutter project:
 
